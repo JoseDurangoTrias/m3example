@@ -1,0 +1,17 @@
+{
+  "name": "docker_persistencia_classe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "a2107503@institutmontilivi.cat",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "express": "^4.17.3",
+    "log4js": "^6.4.1",
+    "mongoose": "^6.1.10",
+    "nodemon": "^2.0.15"
+  }
+}
